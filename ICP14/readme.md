@@ -4,24 +4,24 @@ In this ICP I got to know about Notification, Calendar,and Publishing apps to Go
 
 # OUTPUTS
 
-This is the simple calendar view where we can choose a date to know the events
+## This is the simple calendar view where we can choose a date to know the events
 
-![Output 1](./Documentation/samplecalenderview-output.jpeg)
+![output 1](./Documentation/samplecalenderview-output.JPG)
 
-Here we do create events manually for the date we wish and save them
+## Here we do create events manually for the date we wish and save them
 
-![Output 2](./Documentation/Event-creation-output.jpeg)
+![output 2](./Documentation/Event-creation-output.JPG)
 
-This shows us the overview of our event with timings, location and etc
+## This shows us the overview of our event with timings, location and etc
 
-![Output 3](./Documentation/notification-output.jpeg)
+![output 3](./Documentation/notification-output.JPG)
 
-This generally shows the events of the coming days where the event we included can aso be viewed among those existing events
+## This generally shows the events of the coming days where the event we included can aso be viewed among those existing events
 
-![Output 4](./Documentation/notification-calenderview-output.jpeg)
+![output 4](./Documentation/notification-calenderview-output.JPG)
 
-This is to show we interconnect with the google calender
+## This is to show we interconnect with the google calender
 
-![Output 5](./Documentation/1.jpeg)
+![output 5](./Documentation/1.PNG)
 
 
